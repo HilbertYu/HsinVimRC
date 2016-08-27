@@ -60,3 +60,4 @@ source $HOME/.vim/hsinsetting/tagbar.vim
 source $HOME/.vim/hsinsetting/omnicppcomplete.vim
 
 highlight Visual cterm=NONE ctermbg=Blue ctermfg=Cyan guibg=Grey41
+nmap <F12> :w<CR>:make!<CR>:cw<CR> 
