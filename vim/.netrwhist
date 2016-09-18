@@ -1,8 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/fresh/.MacRcfiles/.vim'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/fresh/HyScripts'
 let g:netrw_dirhist_2='/Users/fresh/.vim'
-let g:netrw_dirhist_3='/Users/fresh/.vim/bundle/ultisnips'
-let g:netrw_dirhist_4='/Users/fresh/.vim'
-let g:netrw_dirhist_5='/Users/fresh/Desktop/Acer/acer'
-let g:netrw_dirhist_6='/Users/fresh/VMMount'
+let g:netrw_dirhist_3='/private/tmp'
